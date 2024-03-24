@@ -14,12 +14,13 @@ Make sure you have the following installed on your local machine:
 - Required Python libraries: numpy, pandas, scikit-learn, nltk, matplotlib, seaborn, wordcloud, Streamlit
 
 ### Installation
-
+#### Run these commands on Terminal or git bash
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/      email-spam-detection.git
+    git clone https://github.com/your_username/      
     ```
+    Replace your_username with your GitHub username or copy the link from the "code" and copy that path link
 
 2. Navigate to the project directory:
 
@@ -33,7 +34,6 @@ Make sure you have the following installed on your local machine:
     code ./
     ```
     
-
 
 ## Documentation
 
